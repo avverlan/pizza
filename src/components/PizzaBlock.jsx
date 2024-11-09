@@ -1,4 +1,5 @@
 function PizzaBlock(props) {
+  console.log();
   return (
     <div class="pizza-block">
       <img
